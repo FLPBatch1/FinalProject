@@ -2,7 +2,7 @@ package com.cg.finalproject.beans;
 
 import java.util.Date;
 
-public class Merchant {
+public class Merchant_Functionality {
 
 	private int merchantId;
 	private boolean isThirdPartyMerchant;
